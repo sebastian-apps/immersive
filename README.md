@@ -2,7 +2,6 @@
 
 Cloud Architecture in 3D. Part of the future of the metaverse? Load a simple yet effective data analytics cloud architecture.
 
-<br />
 
 ## Installation
 
