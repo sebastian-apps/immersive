@@ -39,7 +39,7 @@ npm install
 node main.js
 ```
 
-Visit localhost:1000 in the browser.
+Visit localhost:10000 in the browser.
 
 
 
