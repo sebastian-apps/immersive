@@ -1,6 +1,6 @@
 # Immersive Architecture
 
-Cloud Architecture in 3D. Part of the future of the metaverse? Load a simple yet effective data analytics cloud architecture.
+Cloud Architecture in 3D. Part of the future of the metaverse? Load the design for a simple yet effective data analytics cloud architecture.
 
 
 ## Installation
