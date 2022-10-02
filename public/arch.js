@@ -59,7 +59,8 @@ document.body.appendChild(renderer.domElement);
 
 //const controls = new OrbitControls(camera, renderer.domElement );
 var controls = new THREE.OrbitControls(camera, renderer.domElement);
-controls.object.position.set(-760, 860, -1700);
+// controls.object.position.set(-760, 860, -1700);
+controls.object.position.set(-590, 866, -1505);
 controls.target = new THREE.Vector3(120, -200, 10);
 controls.update();
 
@@ -76,8 +77,7 @@ animate();
 console.log("controls:", controls.object.position);
 window.onclick = myFunction;
 function myFunction() {
-console.log("controls.object.position:", controls.object.position);
-// console.log("controls:", controls);
+    console.log("controls.object.position:", controls.object.position);
 }
 
 //init();
