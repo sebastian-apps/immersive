@@ -1,6 +1,6 @@
 # Immersive Architecture
 
-Cloud Architecture in 3D. Part of the future of the metaverse? Load the design for a simple yet effective data analytics cloud architecture. Orbit (left click), Zoom (middle click), and Pan (right click).
+Cloud Architecture in three dimensions. Load the design for a simple yet effective data analytics cloud architecture. Orbit (left click), Zoom (middle click), and Pan (right click).
 
 
 ## Installation
